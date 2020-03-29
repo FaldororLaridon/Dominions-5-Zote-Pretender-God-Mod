@@ -2,7 +2,7 @@
 #description "A mod which inserts Zote the Mighty from Hollow Knight into Dominions as a default Pretender God."
 #version 0.00
 #icon "images/zote/zoteicon.tga"
-#newweapon 1000
+#newweapon 1900
 #name "Shellwood Nail"
 #dmg 0
 #nratt 1
@@ -16,7 +16,7 @@
 #melee 50
 #end
 
-#newweapon 1001
+#newweapon 1901
 #name "Grey Prince's Nail"
 #dmg 10
 #nratt 1
@@ -29,7 +29,7 @@
 #charge
 #end
 
-#newweapon 1002
+#newweapon 1902
 #name "Grey Prince's Might"
 #dmg 10
 #nratt 2
